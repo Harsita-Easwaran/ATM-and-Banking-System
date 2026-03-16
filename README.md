@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
+# Reg No:212224220036
+# Name: Harsita Easwaran
 # Date:
 
 
@@ -47,10 +47,6 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
 
 
 
